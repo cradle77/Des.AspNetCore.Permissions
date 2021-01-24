@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <Version>0.1</Version>
+    <Authors>Marco De Sanctis</Authors>
+    <Company>Cloud Consult London Ltd</Company>
+    <AssemblyVersion>0.1</AssemblyVersion>
+    <FileVersion>0.1</FileVersion>
+  </PropertyGroup>
+</Project>

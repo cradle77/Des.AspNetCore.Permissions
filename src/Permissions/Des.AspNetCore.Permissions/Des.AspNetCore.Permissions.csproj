@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Marco De Sanctis</Authors>
+    <Company>Cloud Consult London Ltd</Company>
+    <Version>1.0</Version>
+    <Description>Permissions module for ASP.NET Core</Description>
   </PropertyGroup>
 
   <ItemGroup>

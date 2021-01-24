@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30803.129
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Des.AspNetCore.Permissions", "Des.AspNetCore.Permissions\Des.AspNetCore.Permissions.csproj", "{C9B95B57-E642-4211-9952-4DAAF0211DE6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Versioning", "Versioning", "{4D66E2A6-4BC2-4884-BC75-F12DD06E6584}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
